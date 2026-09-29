@@ -1,0 +1,6 @@
+{
+  "name": "RestroWaiter - Restaurant Waiter POS & APK Companion",
+  "description": "High-performance waiter companion app for SageFrame RestroOrder featuring LAN server discovery, offline order queue, live order tracking, ESC/POS printing, and guest bill presentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
